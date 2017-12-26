@@ -1,0 +1,25 @@
+{
+  "name": "arr-chunk",
+  "version": "0.1.0",
+  "description": "chunk arrays into size",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "array",
+    "chunk",
+    "size"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdrainxv/arr-chunk.git"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/cdrainxv/arr-chunk/issues",
+  "author": "cdrainxv",
+  "homepage": "https://github.com/cdrainxv/arr-chunk#readme",
+  "devDependencies": {
+    "ava": "0.24.0"
+  }
+}
