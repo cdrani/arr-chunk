@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cdrainxv/arr-chunk.git"
+    "url": "https://github.com/cdrani/arr-chunk.git"
   },
   "license": "MIT",
-  "bugs": "https://github.com/cdrainxv/arr-chunk/issues",
-  "author": "cdrainxv",
-  "homepage": "https://github.com/cdrainxv/arr-chunk#readme",
+  "bugs": "https://github.com/cdrani/arr-chunk/issues",
+  "author": "cdrani",
+  "homepage": "https://github.com/cdrani/arr-chunk#readme",
   "devDependencies": {
     "ava": "1.4.1"
   }
