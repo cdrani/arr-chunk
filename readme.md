@@ -1,8 +1,9 @@
-# arr-chunk [![Build Status](https://travis-ci.org/cdrainxv/arr-chunk.svg?branch=master)](https://travis-ci.org/cdrainxv/arr-chunk)
+# arr-chunk [![Build Status](https://travis-ci.com/cdrani/arr-chunk.svg?branch=master)](https://travis-ci.com/cdrani/arr-chunk)
 
 ## install
 
-> npm install --save arr-chunk
+> npm install arr-chunk
+> yarn add arr-chunk
 
 ## usage
 
@@ -36,4 +37,4 @@ const arrChunked = chunk(arr, 4, true)
 
 ## license
 
-mit &copy; | cdrainxv
+mit &copy; | cdrani
