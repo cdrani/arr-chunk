@@ -1,4 +1,16 @@
 language: node_js
-node_js:
-  - '9'
-  - '6'
+branches:
+  only:
+    - master
+cache:
+  yarn: true
+  directories:
+    - node_modules
+jobs:
+  include:
+    - stage: test
+      script:
+        - node --version
+        - yarn --version
+        - yarn test
+
