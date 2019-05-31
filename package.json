@@ -1,6 +1,6 @@
 {
   "name": "arr-chunk",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "chunk arrays into size",
   "main": "index.js",
   "scripts": {
